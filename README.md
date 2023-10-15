@@ -49,7 +49,7 @@ Follow these steps to get started with the Neard:
 
 ## Community and Support
 
-- Join our community (Lol, if the repo gets enough stars I might start a Discord or Telegram channel )
+- Future community (Lol, if the repo gets enough stars I might start a Discord or Telegram channel )
 - For bug reports and feature requests, please [open an issue](https://github.com/TechieTeee/Neard/issues).
 
 ## Acknowledgments
