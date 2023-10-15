@@ -1,21 +1,26 @@
 // frontend/pages/index.js
-import { useState, useEffect } from 'react';
+
+import { useState } from 'react';
 import axios from 'axios';
 
 function Home() {
-  const [data, setData] = useState(null);
+  const [etlMessage, setEtlMessage] = useState('');
 
-  useEffect(() => {
-    // Make an API request to your backend
-    axios.get('http://localhost:5000/api/data')
-      .then(response => setData(response.data))
-      .catch(error => console.error(error));
-  }, []);
+  const handleRunETL = async () => {
+    try {
+      const response = await axios.post('http://localhost:5000/run-etl');
+      setEtlMessage(response.data.message);
+    } catch (error) {
+      console.error('Error triggering ETL:', error);
+      setEtlMessage('Error triggering ETL process');
+    }
+  };
 
   return (
     <div>
       <div>Welcome to Your Next.js App!</div>
-      {data && <div>Data from Backend: {data}</div>}
+      <button onClick={handleRunETL}>Run ETL</button>
+      <div>{etlMessage}</div>
     </div>
   );
 }
