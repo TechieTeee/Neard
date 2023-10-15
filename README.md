@@ -1,3 +1,4 @@
+![Neard Logo](https://github.com/TechieTeee/Neard/assets/100870737/a1994bae-904d-4f31-a2a2-1a28094fd066)
 # Neard
 ETL Data Pipeline Tool for Near Protocol
 
@@ -51,10 +52,6 @@ Follow these steps to get started with the Neard:
 
 - Future community (Lol, if the repo gets enough stars I might start a Discord or Telegram channel )
 - For bug reports and feature requests, please [open an issue](https://github.com/TechieTeee/Neard/issues).
-
-## Acknowledgments
-
-We would like to express our gratitude to the Near Protocol community and all contributors who have helped shape and improve this tool.
 
 ## License
 
