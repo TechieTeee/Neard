@@ -35,13 +35,11 @@ Follow these steps to get started with the Neard:
     ```bash
     git clone https://github.com/TechieTeee/Neard.git
     cd near-protocol-data-tool
-    # Add installation steps if necessary
     ```
 
 2. **Usage:** Explore the provided functionalities and integrate the tool into your Near Protocol projects.
 
     ```python
-    # Add example code or usage instructions
     ```
 
 3. **Contributing:** If you'd like to contribute to the development of the tool, see the [Contributing Guidelines](CONTRIBUTING.md).
