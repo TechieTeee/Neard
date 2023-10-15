@@ -1,4 +1,4 @@
-![Neard Logo](https://github.com/TechieTeee/Neard/assets/100870737/a1994bae-904d-4f31-a2a2-1a28094fd066)
+![Neard Logo](https://github.com/TechieTeee/Neard/assets/100870737/83c05b14-860d-497f-98aa-e23a3cd34633)
 # Neard
 ETL Data Pipeline Tool for Near Protocol
 
