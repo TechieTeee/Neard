@@ -56,7 +56,7 @@ const Index = () => {
         <img
           src="https://www.pngarts.com/files/1/Nerd-Glasses-Free-PNG-Image-420x243.png"
           alt="Neard Logo"
-          style={{ width: '300px', height: '300px', marginBottom: '20px' }}
+          style={{ width: '300px', height: '300px', marginBottom: '5px' }}
         />
         <h1 style={{ fontSize: '3rem', margin: '0', fontFamily: 'Roboto, sans-serif' }}>Neard</h1>
         <p style={{ fontSize: '1.5rem', margin: '10px 0', fontFamily: 'Roboto, sans-serif' }}>
