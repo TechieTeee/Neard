@@ -12,6 +12,11 @@ Neard is a powerful data engineering tool designed to enhance the data infrastru
 ## ETL Backend Code Snippet
 ![image](https://github.com/TechieTeee/Neard/assets/100870737/d652fd0e-ed77-4bf3-830a-984825ccb9b5)
 
+## Neard Rewards Near Protocol Smart Contract
+Automatically rewards Neard uses for sucessful contributions to Neard
+![image](https://github.com/TechieTeee/Neard/assets/100870737/55b12b40-de46-4ca7-9dc1-8f6b659257f6)
+
+
 ## Tools Used
 - Programming Languages:
     - Python
