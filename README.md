@@ -21,6 +21,7 @@ Automatically rewards Neard uses for sucessful contributions to Neard
 - Programming Languages:
     - Python
     - Rust
+    - JavaScript
 - Web Frameworks:
     - Flask (for backend)
 -  Data Source:
