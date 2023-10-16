@@ -69,9 +69,10 @@ Follow these steps to get started with the Neard:
     cd Neard
     ```
 
-2. **Usage:** Explore the provided functionalities and integrate the tool into your Near Protocol projects. To run Neaard ETL script, use following.
+2. **Usage:** Explore the provided functionalities and integrate the tool into your Near Protocol projects. To run Neard ETL script, use following.
 
-    ```python near_etl_script.py
+    ```python
+     python near_etl_script.py
     ```
 
 3. **Contributing:** If you'd like to contribute to the development of the tool, see the [Contributing Guidelines](CONTRIBUTING.md).
