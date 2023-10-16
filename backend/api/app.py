@@ -1,9 +1,11 @@
 # backend/app.py
 
-from flask import Flask, jsonify
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 from airflow.scripts.near_etl import run_etl as run_near_etl
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 @app.route('/run-etl', methods=['POST'])
 def trigger_etl():
