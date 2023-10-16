@@ -8,6 +8,7 @@ const Index = () => {
   const handleRunETL = async () => {
     try {
       // Simulate a successful ETL run with a random run time
+      // Have to work on Flask server more for next steps
       const runTime = Math.floor(Math.random() * 10) + 1; // Random run time between 1 and 10 minutes
       const successMessage = `ETL process completed successfully. Run time: ${runTime} minutes.`;
 
