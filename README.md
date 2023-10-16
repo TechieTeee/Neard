@@ -6,6 +6,9 @@ ETL Data Pipeline Tool for Near Protocol
 
 Neard is a powerful data engineering tool designed to enhance the data infrastructure for developers working with the Near Protocol. This tool simplifies the extraction, transformation, and loading (ETL) process for Near Protocol data, providing developers with an efficient and streamlined way to interact with and utilize blockchain data. Developers have the option of using the Python script directly or using the user interface to easily configure data pipelines for Near protocol data. Also, for each successful contribution that a Neard user makes to the project, he/she is automatically rewarded through the smart contract.
 
+![image](https://github.com/TechieTeee/Neard/assets/100870737/0fc9fa17-6f35-45fe-b46e-1b0012442254)
+
+
 ## Tools Used
 - Programming Languages:
     - Python
