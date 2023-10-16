@@ -4,9 +4,38 @@ ETL Data Pipeline Tool for Near Protocol
 
 ## Overview
 
-Neard is a powerful data engineering tool designed to enhance the data infrastructure for developers working with the Near Protocol. This tool simplifies the extraction, transformation, and loading (ETL) process for Near Protocol data, providing developers with an efficient and streamlined way to interact with and utilize blockchain data.
+Neard is a powerful data engineering tool designed to enhance the data infrastructure for developers working with the Near Protocol. This tool simplifies the extraction, transformation, and loading (ETL) process for Near Protocol data, providing developers with an efficient and streamlined way to interact with and utilize blockchain data. Developers have the option of using the Python script directly or using the user interface to easily configure data pipelines for Near protocol data. Also, for each successful contribution that a Neard user makes to the project, he/she is automatically rewarded through the smart contract.
 
-## Why Use the Neard?
+## Tools Used
+- Programming Languages:
+
+- Python
+Rust
+
+- Web Frameworks:
+Flask (for backend)
+
+-  Data Source:
+Pagoda Near API
+
+- Data Processing:
+Apache Airflow
+
+- Frontend Framework:
+Next.js (React)
+
+- Version Control:
+Git
+
+
+- Smart Contract Development:
+Rust
+Near SDK
+
+- Documentation:
+Markdown
+
+## Why Use Neard?
 
 - **Simplified Data Processing:** The tool simplifies complex data processing tasks by providing easy-to-use functions for compression, decompression, storage, and retrieval of data records.
 
@@ -25,6 +54,9 @@ Neard is a powerful data engineering tool designed to enhance the data infrastru
 3. **Balances Tracking:** Keep track of account balances for effective management of data usage.
 
 4. **Integration with Near Protocol:** Seamlessly integrates with the Near Protocol, enhancing the overall development experience for Near developers.
+
+5. **User Friendly:** With option of using the Python script directly or the user interface, this allows developers with diverse data experience to easily use Neard.
+
 
 ## Getting Started
 
@@ -45,6 +77,8 @@ Follow these steps to get started with the Neard:
 3. **Contributing:** If you'd like to contribute to the development of the tool, see the [Contributing Guidelines](CONTRIBUTING.md).
 
 4. **License:** This project is licensed under the [MIT License](LICENSE).
+
+
 
 ## Community and Support
 
