@@ -13,18 +13,18 @@ Neard is a powerful data engineering tool designed to enhance the data infrastru
 - Web Frameworks:
     - Flask (for backend)
 -  Data Source:
-    Pagoda Near API
+    - Pagoda Near API
 - Data Processing:
     - Apache Airflow
 - Frontend Framework:
-    Next.js (React)
+    - Next.js (React)
 - Version Control:
     - Git
 - Smart Contract Development:
    - Rust
     - Near SDK
 - Documentation:
-    Markdown
+    - Markdown
 
 ## Why Use Neard?
 
